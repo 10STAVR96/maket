@@ -1,0 +1,29 @@
+@import url(./__row/project__row.css);
+@import url(./__header/project__header.css);
+@import url(./__title/project__title.css);
+@import url(./__subtitle/project__subtitle.css);
+@import url(./__home/project__home.css);
+@import url(./__home-title/project__home-title.css);
+@import url(./__home-subtitle/project__home-subtitle.css);
+@import url(./__apps/project__apps.css);
+@import url(./__app/project__app.css);
+@import url(./__app-title/project__app-title.css);
+@import url(./__app-subtitle/project__app-subtitle.css);
+@import url(./__app-bg/project__app-bg.css);
+
+.project {
+    margin-top: 192px;
+    max-width: 940px;
+    width: 100%;
+    margin: auto;
+    display: grid;
+    grid-template-areas: 
+    "header"
+    "home"
+    "apps";
+    grid-row-gap: 96px;
+}
+
+.project {
+    border: 1px purple solid;
+}
