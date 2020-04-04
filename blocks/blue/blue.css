@@ -1,0 +1,11 @@
+@import url('./__text/blue__text.css');
+@import url('./__title/blue__title.css');
+@import url('./__paragraph/blue__paragraph.css');
+@import url('./__rectangle/blue__rectangle.css');
+
+.blue {
+    background: #316099;
+    border-radius: 0 120px 0 0;
+    width: calc(100% - 56px);
+    position: relative;
+}

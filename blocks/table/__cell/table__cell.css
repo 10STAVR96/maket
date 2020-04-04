@@ -1,0 +1,14 @@
+.table__cell {
+    display: flex;
+    justify-content: center;
+    width: 235px;
+    border-bottom: 1px solid white;
+    border-right: 1px solid white;
+}
+
+.table__cell:nth-child(4n) {
+  border-right: none;
+}
+.table__cell:nth-child(n+5) {
+  border-bottom: none;
+}

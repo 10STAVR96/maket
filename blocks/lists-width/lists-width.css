@@ -1,0 +1,5 @@
+.lists-width {
+    margin: auto;
+    display: flex;
+    width: calc(100% - 426px);
+}

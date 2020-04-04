@@ -1,0 +1,5 @@
+@import url('./__text/copyright__text.css');
+.copyright {
+    background: #316099;
+    width: calc(100% - 96px);
+}
