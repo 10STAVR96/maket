@@ -1,0 +1,8 @@
+@import url('./__title/text__title.css');
+@import url('./_place/_footer/text_place_footer.css');
+.text {
+    display: flex;
+    justify-content: space-between;
+    width: calc(100% - 426px);
+    margin: auto;
+}
