@@ -1,0 +1,36 @@
+@import url(./__title/what-we-do__title.css);
+@import url(./__group/what-we-do__group.css);
+@import url(./__group/_position/what-we-do__group_position_left.css);
+@import url(./__image-first/what-we-do__image-first.css);
+@import url(./__image-second/what-we-do__image-second.css);
+@import url(./__image-third/what-we-do__image-third.css);
+@import url(./__group-title/what-we-do__group-title.css);
+@import url(./__text/what-we-do__text.css);
+@import url(./__link/what-we-do__link.css);
+@import url(./__icon/what-we-do__icon.css);
+
+.what-we-do {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-gap: 100px;
+    max-width: 940px;
+    padding-top: 180px;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 1023px) {
+    .what-we-do {
+        margin: 0 42px;
+    }
+}
+
+@media screen and (max-width: 719px) {
+    .what-we-do {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        margin: 0 auto;
+        justify-items: center;
+        grid-gap: 70px;
+    }
+}
