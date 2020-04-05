@@ -8,4 +8,5 @@
     border-radius: 0 120px 0 0;
     width: calc(100% - 56px);
     position: relative;
+    display: flex;
 }
