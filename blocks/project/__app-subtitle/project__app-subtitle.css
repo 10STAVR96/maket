@@ -1,4 +1,9 @@
-.project__app-subtitle{
+.project__app-subtitle {
     position: relative;
     z-index: 2;
+    font-family: Gilroy;
+    font-size: 16px;
+    line-height: 46px;
+    /* identical to box height, or 287% */
+    letter-spacing: 0.05em;
 }

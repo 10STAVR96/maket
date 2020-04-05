@@ -22,6 +22,7 @@
     "home"
     "apps";
     grid-row-gap: 96px;
+    color: #ffffff;
 }
 
 .project {

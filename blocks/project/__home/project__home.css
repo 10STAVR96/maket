@@ -6,6 +6,10 @@
     background-repeat: no-repeat;
     width: 940px;
     height: 417px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-end;
 }
 
 .project__home {

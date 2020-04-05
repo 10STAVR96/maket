@@ -1,3 +1,8 @@
-.project__home-subtitle{
-    
+.project__home-subtitle {
+    margin: 0;
+    margin-right: 48px;
+    font-family: Gilroy;
+    font-size: 16px;
+    line-height: 46px;
+    letter-spacing: 0.05em;
 }

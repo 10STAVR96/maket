@@ -1,4 +1,10 @@
-.project__app-title{
+.project__app-title {
     position: relative;
-    z-index: 1;
+    z-index: 2;
+    margin: 0;
+    font-family: Gilroy;
+    font-size: 28px;
+    line-height: 46px;
+    /* identical to box height, or 164% */
+    letter-spacing: 0.05em;
 }
