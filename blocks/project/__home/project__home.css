@@ -1,0 +1,19 @@
+.project__home {
+    grid-area: home;
+    background-image: url(../../../images/project__home.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 940px;
+    height: 417px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-end;
+    box-sizing: border-box;
+    padding: 48px; 
+}
+/* 
+.project__home {
+    border: 1px red solid;
+} */

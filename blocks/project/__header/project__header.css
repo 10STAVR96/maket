@@ -1,0 +1,5 @@
+.project__header{
+    grid-area: header;
+    /* border: 1px red solid; */
+    display: flex;
+}
