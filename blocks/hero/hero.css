@@ -1,0 +1,10 @@
+@import url(./__subtitle/hero__subtitle.css);
+@import url(./__title/hero__title.css);
+@import url(./__button/hero__button.css);
+@import url(./__image/hero__image.css);
+
+.hero{
+    margin: auto;
+    position: relative;
+    height: 681.48px;
+}

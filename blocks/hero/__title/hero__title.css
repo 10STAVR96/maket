@@ -1,0 +1,12 @@
+.hero__title{
+    font-family: 'Gilroy', 'Arial', sans-serif;
+    font-size: 55px;
+    line-height: 74px;
+    letter-spacing: 0.04em;
+    width: 510px;
+    height: 148px;
+    color: #1F3F68;
+    margin-top: 0;
+    z-index: 5;
+
+    }
