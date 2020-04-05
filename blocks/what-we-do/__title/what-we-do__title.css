@@ -1,0 +1,10 @@
+.what-we-do__title {
+    max-width: 352px;
+    font-size: 36px;
+    line-height: 46px;
+    letter-spacing: 0.05em;
+    margin: 0;
+    grid-column: 1/2;
+    grid-row: 1/2;
+    color: #316099;
+}

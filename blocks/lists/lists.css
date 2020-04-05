@@ -1,0 +1,7 @@
+@import url('./__text/lists__text.css');
+@import url('./__text/__text-bold/__text-bold.css');
+.lists {
+    background: #316099;
+    width: calc(100% - 96px);
+    display: flex;
+}

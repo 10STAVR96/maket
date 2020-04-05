@@ -1,6 +1,7 @@
 .page {
+    color: #FFFFFF;
+    width: 100%;
     min-width: 720px;
-    background-color: #FFF;
     font-family: 'Gilroy', Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;

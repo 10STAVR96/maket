@@ -1,0 +1,5 @@
+.blue__text {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 96px;
+}
