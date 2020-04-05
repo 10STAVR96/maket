@@ -1,4 +1,11 @@
-.project__subtitle{
+.project__subtitle {
+    margin: 0;
     max-width: 540px;
     margin-left: 93px;
+    color: #1F3F68;
+    font-family: Gilroy;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    letter-spacing: 0.05em;
 }

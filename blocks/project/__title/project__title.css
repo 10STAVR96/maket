@@ -1,3 +1,11 @@
-.project__title{
+.project__title {
+    margin: 0;
     max-width: 227px;
+    color: #1F3F68;
+    font-family: Gilroy;
+    font-size: 36px;
+    line-height: 46px;
+    /* or 128% */
+    letter-spacing: 0.05em;
+    justify-self: flex-end;
 }
