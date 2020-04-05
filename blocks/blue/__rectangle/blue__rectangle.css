@@ -1,13 +1,11 @@
 .blue__rectangle {
     width: 220px;
     height: 56px;
-    position: absolute;
-    top: 850px;
-    right: 300px;
     font-size: 16px;
     line-height: 26px;
     text-align: center;
     letter-spacing: 0.04em;
     background: #5A98D0;
     border-radius: 10px;
+    margin: auto;
 }

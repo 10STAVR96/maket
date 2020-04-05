@@ -3,6 +3,6 @@
 .text {
     display: flex;
     justify-content: space-between;
-    width: calc(100% - 426px);
-    margin: auto;
+    margin-left: 213px;
+    max-width: 850px;
 }
